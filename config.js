@@ -13,5 +13,5 @@ const CONFIG = {
     mess: 'bạn cũng nghĩ vậy sao, cảm động quá đi~',
     messDesc: 'cảm ơn bạn nhiều nha, moaz moaz',
     btnAccept: 'mình nói sự thật thôi mà',
-    messLink: 'https://www.messenger.com/t/3095609137140279
+    messLink: 'https://www.messenger.com/t/100036767685672'
 }
