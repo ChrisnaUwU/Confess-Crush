@@ -1,20 +1,17 @@
 const CONFIG = {
-    titleWeb: "Tiêu đề web",
-    introTitle: 'Tên người yêu bạn',
-    introDesc: `Trái đất vốn lạ thường
-    Mà sao em cứ đi nhầm đường
-    Lạc vào tim anh lẻ loi
-    Đằng sau chữ yêu đây là thương`,
-    btnIntro: '^^HiHi^^',
-    title: 'Phải chăng em đã yêu ngay từ cái nhìn đầu tiên 🥰',
-    desc: 'Phải chăng em đã say ngay từ lúc thấy nụ cười ấy ',
-    btnYes: 'Thích lắm <33',
-    btnNo: 'Không nha :3',
-    question: 'Trên thế giới hơn 7 tỉ người mà sao bạn lại yêu mình <3',
-    btnReply: 'Gửi cho bạn <3',
-    reply: 'Yêu thì yêu mà không yêu thì yêu <33333333',
-    mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
-    messDesc: 'Tối nay 7h, mình qua đón đi chơi nha.',
-    btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://github.com/zukahai/Confess-Crush' //link mess của các bạn. VD: https://m.me/nam.nodemy
+    titleWeb: "Moaz Moaz Cá",
+    introTitle: 'Hé lu đằng ấy~',
+    introDesc: `Cá với Witch real quá chừng luôn phải hem <3`,
+    btnIntro: 'real quá real',
+    title: 'Cá và Witch sinh ra là dành cho nhau đúng hông? >:3',
+    desc: 'đằng ấy nghĩ như nàoooo ',
+    btnYes: 'đúng đúng, cặp này real lắm',
+    btnNo: 'jz trời, không nha!!!',
+    question: 'awww, bạn thật đáng iu. Tại sao bạn lại nghĩ như thế ó?',
+    btnReply: 'Gửi Witch Ù w Ú',
+    reply: 'tại Cá hợp với Witch lắm luôn á, cặp này không real thì mình là fake >:D',
+    mess: 'bạn cũng nghĩ vậy sao, cảm động quá đi~',
+    messDesc: 'cảm ơn bạn nhiều nha, moaz moaz',
+    btnAccept: 'mình nói sự thật thôi mà',
+    messLink: 'https://www.messenger.com/t/3095609137140279
 }
